@@ -1,1 +1,5 @@
 // Your CSS code here.
+.slide-in {
+  transition: transform .5s ease-in-out;
+  transform: translateX(-50%);
+}
